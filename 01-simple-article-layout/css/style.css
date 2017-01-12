@@ -1,0 +1,49 @@
+* {
+  box-sizing: border-box;
+}
+
+#app-container {
+  background-color: #fbf9f1;
+  margin-left: 75px;
+  margin-right: 75px;
+
+}
+
+.header {
+  font-family: "Georgia";
+  padding-left: 75px;
+}
+
+.header h3 {
+  font-weight: 300;
+  font-size: 30px;
+}
+
+.main-content {
+  font-family: "Georgia";
+  padding-left: 75px;
+  line-height: 1.25;
+}
+
+.main-content h1 {
+  font-weight: 100;
+  font-size: 50px;
+}
+
+.main-content a {
+  text-decoration: none;
+  color: #77a8d2;
+}
+
+.main-content p {
+  font-size: 22px;
+  padding-right: 625px;
+}
+
+.mono{
+  border: 2px black solid;
+  background-color: black;
+  color: white;
+  font-weight: 600;
+  font-family: "Geneva";
+}

@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+
+#appcontainer {
+  font-family: "Avenir";
+}
+
+.menu {
+  display: block;
+  border-collapse: collapse;
+}
+
+.menu p {
+  border: 1px solid grey;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 7px;
+  width: 18%;
+  margin-top: -1px;
+  margin-bottom: -1px;
+}
+
+.menu :hover{
+  color: #66cc99;
+}

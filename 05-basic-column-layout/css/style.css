@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+  }
+
+.column {
+  display: inline-block;
+  font-family: "Helvetica Neue";
+  margin: -1.5px;
+  width: 24%;
+  vertical-align: top;
+}
+
+.top {
+  background-color: #004;
+  color: white;
+  font-weight: 400;
+  padding: 5px;
+}
+
+.bottom a {
+  color: #de5233;
+  text-decoration: none;
+}
+
+.gray {
+  color: grey;
+}

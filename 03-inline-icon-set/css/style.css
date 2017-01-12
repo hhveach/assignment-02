@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+
+#appcontainer {
+  font-family: sans-serif;
+}
+
+.text {
+  color: grey;
+  font-size: 12px;
+}
+
+.icons {
+  display: inline;
+}

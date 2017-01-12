@@ -1,0 +1,46 @@
+* {
+  box-sizing: border-box;
+}
+
+#appcontainer {
+  font-family: "Futura";
+  width: 900px;
+}
+
+.header {
+  border-top: 1.5px solid black;
+  border-bottom: 1.5px solid black;
+  text-align: center;
+  word-spacing: 10px;
+  margin-bottom: 15px;
+  width: 50%;
+}
+
+.span {
+  color: grey;
+}
+
+.nav-menu a {
+  text-decoration: none;
+  background-color: rgb(205, 92, 92);
+  color: white;
+  padding: 8px;
+  margin-right: 8px;
+}
+
+.nav-menu {
+  display: inline-block;
+  margin-top: 3px;
+  margin-right: 15px;
+  font-size: 18px;
+  width: 100%;
+}
+
+.input {
+  border: none;
+  border-bottom: 1px solid grey;
+  font-size: 15px;
+  padding-bottom: 7px;
+  padding-left: 4px;
+  margin-left: 50px;
+}
